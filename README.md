@@ -1,6 +1,6 @@
 # dollcodegolf 🏌️‍♀️
 
-dollcode, but it's `420 bytes` of rust
+dollcode, but it's `312 bytes` of rust
 
 ## requirements 📋
 
